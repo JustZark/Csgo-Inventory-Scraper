@@ -6,4 +6,5 @@ A CSGO inventory scraper made with dearpygui that automaticaly fetches prices by
 
 # Dependencies
 - DearPyGui v1.5.1
-- xmltodict
+- xmltodict 0.13.0
+- Pillow 10.0.0
